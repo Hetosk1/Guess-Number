@@ -52,4 +52,6 @@ document.querySelector('.again').addEventListener('click',function(){
     score = 20;
     document.querySelector('.number').style.width = "15rem";
     document.querySelector('.number').textContent = "?";
+    document.querySelector('.guess').disabled = false;
+    document.querySelector('.check').disabled = false;
 });
