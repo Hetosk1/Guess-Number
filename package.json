@@ -1,0 +1,19 @@
+{
+  "name": "guess-number",
+  "version": "0.1.0",
+  "description": "a game made with vannila javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hetosk1/Guess-Number.git"
+  },
+  "author": "HetJasani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hetosk1/Guess-Number/issues"
+  },
+  "homepage": "https://github.com/Hetosk1/Guess-Number#readme"
+}
